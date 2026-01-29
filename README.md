@@ -43,7 +43,9 @@ We present **MedMCP-Calc**, the first benchmark designed to evaluate LLMs on rea
 <img src="assets/main.png" width="100%" alt="MedMCP-Calc Architecture">
 </p>
 
-We conduct extensive experiments across state-of-the-art LLMs and find that *even the strongest models struggle with these realistic workflows*—notably, most models exhibit a **low propensity to invoke available tools**. We develop **CalcMate** through scenario planning training and proactive tool augmentation, achieving substantial improvements over existing approaches. This demonstrates that *encouraging active tool use yields significant gains in agentic medical tasks*. We hope MedMCP-Calc will serve as a rigorous and clinically meaningful testbed for advancing LLMs toward genuine clinical utility.
+We conduct extensive experiments across state-of-the-art LLMs and find that *even the strongest models struggle with these realistic workflows*—notably, most models exhibit a **low propensity to invoke available tools**. We develop **CalcMate** through scenario planning training and proactive tool augmentation, achieving substantial improvements over existing approaches. This demonstrates that *encouraging active tool use yields significant gains in agentic medical tasks*.
+
+We hope MedMCP-Calc will serve as a rigorous and clinically meaningful testbed for advancing LLMs toward genuine clinical utility.
 
 ## Getting Started
 
