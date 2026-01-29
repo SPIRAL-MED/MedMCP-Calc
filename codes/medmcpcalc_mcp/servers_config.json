@@ -1,0 +1,26 @@
+{
+    "google_search": {
+      "command": "python",
+      "args": ["-m", "medmcpcalc_mcp.servers.google_search", "--transport", "stdio"],
+      "env": {
+        "GOOGLE_API_URL": "https://google.serper.dev/search",
+        "GOOGLE_API_KEY": "YOUR_GOOGLE_API_KEY"
+      }
+    },
+    "postgres_executor": {
+      "command": "python",
+      "args": ["-m", "medmcpcalc_mcp.servers.postgres_executor", "--transport", "stdio"],
+      "env": {
+        "DB_DSN": "postgresql://medmcpcalc_readonly_user:PASSWORD@127.0.0.1:5432/medmcpcalc_database",
+        "POSTGRES_TIMEOUT": "30",
+        "DB_SCHEMA": "public"
+      }
+    },
+    "python_executor": {
+      "command": "python",
+      "args": ["-m", "medmcpcalc_mcp.servers.python_executor", "--transport", "stdio"],
+      "env": {
+        "PYTHON_TIMEOUT": "30"
+      }
+    }
+}
