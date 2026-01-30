@@ -88,17 +88,17 @@ cd benchmark/database
 
 Run the Build Script:
 
-The `build.sh` script will automatically create the database schema and load all synthetic patient data.
+The `build.sh` script will automatically create the database schema and load all patient data.
 
 ```bash
 ./build.sh
 ```
 
-The build process may take several minutes depending on your system specifications.
+The build process may take several minutes, depending on your system specifications.
 
 After successful execution, you will have:
 
-- **Database**: `medmcpcalc_database` containing 49,419 synthetic patient records
+- **Database**: `medmcpcalc_database` containing 49,419 patient records
 - **Read-only User**: `medmcpcalc_readonly_user` for secure query access
 - **Default Password**: `PASSWORD` (change this in production environments)
 
@@ -218,7 +218,7 @@ We recommend using DeepSeek V3.1 as the extraction model based on our experiment
 
 **View Statistics**
 
-After evaluation completes, generate summary statistics:
+After the evaluation completes, generate summary statistics:
 
 ```bash
 python evaluation.py \
