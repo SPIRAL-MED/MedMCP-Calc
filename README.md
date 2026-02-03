@@ -239,15 +239,16 @@ This outputs overall metrics and per-scenario breakdowns consistent with the pap
 
 If you are interested in our project and would like to join us, feel free to send an email to [xiaofan.zhang@sjtu.edu.cn](mailto:xiaofan.zhang@sjtu.edu.cn).
 
-<!-- ## Citation
+
+## Citation
 
 If you find this work useful, please cite our paper.
 
 ```
 @article{zhu2025medmcp,
   title={MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration},
-  author={},
-  journal={Coming Soon},
+  author={Zhu, Yakun and Huang, Yutong and Qin, Shengqian and Huang, Zhongzhen and Zhang, Shaoting and Zhang, Xiaofan},
+  journal={arXiv preprint arXiv:2601.23049},
   year={2026}
-}
-``` -->
+} 
+```
