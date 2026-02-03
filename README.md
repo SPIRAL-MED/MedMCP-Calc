@@ -1,12 +1,18 @@
 # MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2601.23049">
+    <img src="https://img.shields.io/badge/arXiv-2601.23049-b31b1b.svg" alt="arXiv Paper">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SPIRAL-MED/MedMCP-Calc">
     <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python 3.10+">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SPIRAL-MED/MedMCP-Calc/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SPIRAL-MED/MedMCP-Calc">
     <img src="https://img.shields.io/badge/Tasks-118-orange.svg" alt="118 Tasks">
   </a>
