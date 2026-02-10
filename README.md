@@ -245,10 +245,10 @@ If you are interested in our project and would like to join us, feel free to sen
 If you find this work useful, please cite our paper.
 
 ```
-@article{zhu2025medmcp,
+@article{zhu2026medmcp,
   title={MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration},
   author={Zhu, Yakun and Huang, Yutong and Qin, Shengqian and Huang, Zhongzhen and Zhang, Shaoting and Zhang, Xiaofan},
   journal={arXiv preprint arXiv:2601.23049},
   year={2026}
-} 
+}
 ```
