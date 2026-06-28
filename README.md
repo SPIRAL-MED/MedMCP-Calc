@@ -26,7 +26,10 @@
   <strong>The first benchmark for evaluating LLMs in realistic medical calculator scenarios through MCP integration.</strong>
 </p>
 
+## 🔥News
 
+- [2026/04/05] Our paper **MedMCP-Calc** has been accepted to the **ACL 2026 Main Conference** as an **oral presentation**!
+  
 ## Contents
 
 - [Introduction](#introduction)
