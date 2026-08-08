@@ -28,7 +28,7 @@
 
 ## 🔥News
 
-- [2026/04/05] Our paper **MedMCP-Calc** has been accepted to the **ACL 2026 Main Conference** as an **oral presentation**!
+- [2026/04/05] Our paper **[MedMCP-Calc](https://aclanthology.org/2026.acl-long.221/)** has been accepted to the **ACL 2026 Main Conference** as an **oral presentation**!
   
 ## Contents
 
