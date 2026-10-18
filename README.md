@@ -248,26 +248,11 @@ If you are interested in our project and would like to join us, feel free to sen
 If you find this work useful, please cite our paper.
 
 ```
-@inproceedings{zhu-etal-2026-medmcp,
-    title = "{M}ed{MCP}-Calc: Benchmarking {LLM}s for Realistic Medical Calculator Scenarios via {MCP} Integration",
-    author = "Zhu, Yakun  and
-      Huang, Yutong  and
-      Qin, Shengqian  and
-      Huang, Zhongzhen  and
-      Zhang, Shaoting  and
-      Zhang, Xiaofan",
-    editor = "Liakata, Maria  and
-      Moreira, Viviane P.  and
-      Zhang, Jiajun  and
-      Jurgens, David",
-    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
-    month = jul,
-    year = "2026",
-    address = "San Diego, California, United States",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2026.acl-long.221/",
-    pages = "4845--4873",
-    ISBN = "979-8-89176-390-6"
+@inproceedings{zhu2026medmcp,
+  title={Medmcp-calc: Benchmarking llms for realistic medical calculator scenarios via MCP integration},
+  author={Zhu, Yakun and Huang, Yutong and Qin, Shengqian and Huang, Zhongzhen and Zhang, Shaoting and Zhang, Xiaofan},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={4845--4873},
+  year={2026}
 }
-
 ```
